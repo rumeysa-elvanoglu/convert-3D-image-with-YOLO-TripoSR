@@ -6,9 +6,11 @@ Bu proje, tek bir fotoğraf üzerinden uçtan uca bir 3D model üretim hattı su
 
 <img width="439" height="76" alt="Ekran Resmi 2026-09-06 00 58 40" src="https://github.com/user-attachments/assets/7e9bf370-803f-438b-b8d7-2d1050abe33a" />
 
-</br
+
+
 
 <img width="448" height="320" alt="Ekran Resmi 2026-09-06 00 59 17" src="https://github.com/user-attachments/assets/381dea6a-00f3-47c5-8fa1-08df054c54a5" />
+
 
 💡 Neden uzak TripoSR? Yerel kurulum torchmcubes / xatlas gibi C++ derleyici gerektiren paketlere ihtiyaç duyar ve sık sık kurulum hatası verir. Bu proje, ağır işi Hugging Face'in barındırdığı Space'e devrederek yerelde hiçbir derleme gerektirmez.
 
